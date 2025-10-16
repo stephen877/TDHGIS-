@@ -1,0 +1,21 @@
+Download Instructions:
+
+From the TdhGIS.com, Downloads page, click on the version you wish to download, TdhGIS_win or TdhGIS_linux. A google docs page will be displayed (you will need to have a google docs account, which can be created free of charge). For Linux, only a 64-bit version is currently available. 
+Click on the the file name, TdhGIS_win.zip or TdhGIS_linux64.zip. A different google docs page will be displayed listing the contents of the zip file. Do not attempt to execute the setup or install file at this point.
+From the menu on the google docs page, click on File | Download to download the zip file.
+
+
+Install Instructions:
+
+Go to the directory where the downloaded zip file was placed.
+Double click on the file to open your archive manager.
+For MS Windows:
+
+Extract the Setup file to the directory of your choice.
+Double click on the Setup file to begin the install process.
+The operating system and any virus protection software may give ominous warnings about running executable files, that is how they protect and justify themselves. If a message appears saying windows prevented an unrecognized app from starting, click on the "more info" text and then click "run anyway".
+For Linux: 
+
+Extract the zip file to the directory of your choice. Open the ReadMe.pdf file and follow the instructions.
+If you have a previous version, extract to the same directory (user data will not be lost).
+If the program does not start, you may need to add some standard libraries. In a terminal session, enter “sudo apt-get install libwxgtk3.0-0”. 
