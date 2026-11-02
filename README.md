@@ -1,7 +1,7 @@
 # TDHGIS-
 TdhGIS provides a robust and versatile set of tools for vector based spatial analysis. Everything needed to be performing spatial analysis within minutes is included in this easy to use software package.
 Feature Summary:
-Graphically create and edit geometric data, as with a CAD program
+Graphically create and edi6 geometric data, as with a CAD program
 
 Import Shapefiles and OpenStreetMap data
 
